@@ -11,5 +11,5 @@ Creating history what I did in the last project about python (Bikeshare) and mad
 Files include python file, text file, README.md, CSV but all of CSV files are untracked because I did command .gitignore.
 
 ### Credits
-I follow all of the steps from udacity course and search it in stackoverflow.com website as well.
+I follow all of the steps from udacity course and search it in stackoverflow.com website as well if I found some problem.
 
